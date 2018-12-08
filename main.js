@@ -32,13 +32,3 @@ Array.from(document.querySelectorAll('.menu-btn')).forEach(function(element) {
     }
   });
 });
-
-
-
-
-
-
-
-
-
-
